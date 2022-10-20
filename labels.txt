@@ -1,2 +1,3 @@
-0 Dog
-1 Cat
+0 Cheetah
+1 Wolf
+2 Lion
